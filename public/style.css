@@ -1,0 +1,13 @@
+body{
+    background-image: url('./14076102195_de4f64fd9b_o.jpg');
+    background-size: cover;
+}
+
+.container{
+    background-color: rgba(50, 217, 92, 0.783);
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
